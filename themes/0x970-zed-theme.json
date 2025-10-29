@@ -117,9 +117,7 @@
         "hidden": "#4C4C4C",
         "hidden.background": "#262427",
         "hidden.border": "#4C4C4C",
-        "hint": "#89DEEF",
-        "hint.background": "#262427",
-        "hint.border": "#51CDE7",
+        "hint": "#f9f9f9",
         "ignored": "#807580",
         "ignored.background": "#262427",
         "ignored.border": "#807580",
@@ -313,8 +311,8 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#89DEEF",
-            "font_style": null,
+            "color": "#606060",
+            "font_style": "italic",
             "font_weight": null
           },
           "label": {
