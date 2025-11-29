@@ -1,0 +1,7 @@
+id = "0x970"
+name = "0x970 Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Eike Lenz <e.lenz@mittwald.de>"]
+description = "Sleek dark theme with crisp, high‑contrast syntax highlighting"
+repository = "https://github.com/elenz97/zed"
